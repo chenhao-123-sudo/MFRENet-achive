@@ -66,7 +66,7 @@ pip install ultralytics
 
 #### CLI
 
-YOLOv8 may be used directly in the Command Line Interface (CLI) with a command:
+MFRENet may be used directly in the Command Line Interface (CLI) with a command:
 
 ```bash
 train:

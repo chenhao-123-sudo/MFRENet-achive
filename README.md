@@ -57,6 +57,8 @@ Pip install the ultralytics package including all [requirements](https://github.
 
 ```bash
 pip install ultralytics
+pip install timm
+pip install einops
 ```
 
 </details>
